@@ -6,7 +6,7 @@ This will create a copy of this repository in your account.
 
 ### Clone This Repository
 
-<img align="right" width="300" src="Assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../Assets/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
 
@@ -16,7 +16,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-<img align="right" width="300" src="Assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../Assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 For example:
 ```
@@ -46,7 +46,7 @@ git checkout -b add-alonzo-church
 
 Now open `contributors-list.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="450" src="Assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../Assets/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -75,11 +75,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="Assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../Assets/compare-and-pull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="Assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../Assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
