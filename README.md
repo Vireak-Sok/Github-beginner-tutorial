@@ -5,7 +5,7 @@ Before get into this repository, you should watch some tutorial videos on this  
 ### What to do in this repository
 
 This repository is for beginner, the task to do is fork, clone this repository,create your own branch and make change in contributors-list.md by adding some information of yourself as shown in example and then create pull request.
-#### You can do this in any type GuI or CLI check the tutorial above
+#### You can do this in any type GUI or CLI check the tutorial above
 
 ### Don't forget to give star to this rpeository
 ### Warning
