@@ -8,4 +8,4 @@ This repository is for beginner, the task to do is fork, clone this repository,c
 
 ### Don't forget to give star to this rpeository
 ### Warning
-Never make change to Master branch, please create your own branch
+Never make change to Master branch, please create your own branch before making any changes.
