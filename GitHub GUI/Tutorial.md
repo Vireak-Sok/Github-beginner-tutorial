@@ -11,7 +11,7 @@ If you don't have GitHub Desktop on your machine, [install it](https://desktop.g
 
 If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
 
-<img align="right" width="300" src="../Assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../Assets/fork.png" alt="fork this repository"/>
 
 ## Fork this repository
 
@@ -26,15 +26,15 @@ IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
 To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
 
-<img style="left;" src="../Assets/clonetodesktop.png" alt="clone this repository" />
+<img style="left;" src="../Assets/clonetodesktop.png" alt="clone this repository"/>
 
 A pop up window will open. Click on "Open GitHubDesktop.exe".
 
-<img style="left;" src="../Assets/open-githubdesktop.png" alt="clone this repository" />
+<img style="left;" src="../Assets/open-githubdesktop.png" alt="clone this repository"/>
 
 After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
 
-<img style="left;" src="../Assets/downloaded.png" alt="clone this repository" />
+<img style="left;" src="../Assets/downloaded.png" alt="clone this repository"/>
 
 Now you have copied the contents of the first-contributions repository in github to your computer.
 
@@ -42,25 +42,22 @@ Now you have copied the contents of the first-contributions repository in github
 
 Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
 
-<img style="left;" src="assets/create-branch.png" alt="make a branch" />
+<img style="left;" src="assets/create-branch.png" alt="make a branch"/>
 
 Name your branch <add-your-name>. For example, "add-john-doe"
 
-<img style="left;" src="../Assets/create-branch-name.png" alt="name your branch" />
+<img style="left;" src="../Assets/create-branch-name.png" alt="name your branch"/>
 
 Click on `Create branch`
 
 ## Make necessary changes and commit those changes
 
-Now open `contributors-list.md` file in a text editor, scroll to the bottom of the page and add your name to it, then save the file. 
-
-Example: If your name is James Smith, It should look like this.
-
-\[James Smith](https://github.com/jamessmith)
+Now open `contributors-list.md` file in a text editor, scroll to the bottom of the page and add your name to it, then save the file.
+Make changes as the example given in that original file.
 
 You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
 
-<img style="left;" src="../Assets/status.png" alt="check status" />
+<img style="left;" src="../Assets/status.png" alt="check status"/>
 
 Now commit those changes:
 
@@ -70,31 +67,31 @@ Replace `<your-name>` with your name.
 
 Click on the button that says `Commit to add-your-name`.
 
-<img style="left;" src="../Assets/commit1.png" alt="commit your changes" />
+<img style="left;" src="../Assets/commit1.png" alt="commit your changes"/>
 
 At the bottom, you can see that the commit has been created.
 
-<img style="left;" src="../Assets/commit2.png" alt="commit your changes" />
+<img style="left;" src="../Assets/commit2.png" alt="commit your changes"/>
 
 ## Push changes to github
 
 Click on File->Options and sign-in to Github.com. Type in your Github username and password.
 
-<img style="left;" src="../Assets/sign-in.png" alt="log-in to Github" />
+<img style="left;" src="../Assets/sign-in.png" alt="log-in to Github"/>
 
 Click the `Publish` button on the top right.
 
-<img style="left;" src="../Assets/publish1.png" alt="push your changes" />
+<img style="left;" src="../Assets/publish1.png" alt="push your changes"/>
 
 ## Submit your changes for review
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
-<img style="left;" src="../Assets/compare-and-pull.png" alt="create a pull request" />
+<img style="left;" src="../Assets/compare-and-pull.png" alt="create a pull request"/>
 
 Now submit the pull request.
 
-<img style="left;" src="../Assets/submit-pull-request.png" alt="submit pull request" />
+<img style="left;" src="../Assets/submit-pull-request.png" alt="submit pull request"/>
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
@@ -104,8 +101,4 @@ Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflo
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
-You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
-
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
-
-### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
