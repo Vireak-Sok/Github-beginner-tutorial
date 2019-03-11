@@ -40,7 +40,7 @@
 
 ឥឡូវបង្កើតសាខាមួយដោយចុចលើប៊ូតុង "Current branch" នៅខាងលើហើយបន្ទាប់មកចុចលើ "New branch":
 
-<img style="left;" src="../ssets/create-branch.png" alt="make a branch"/>
+<img style="left;" src="../Assets/create-branch.png" alt="make a branch"/>
 
 ដាក់ឈ្មោះសាខារបស់អ្នក <add-your-name>. 
 
