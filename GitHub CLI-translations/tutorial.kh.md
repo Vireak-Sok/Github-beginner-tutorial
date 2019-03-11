@@ -34,14 +34,14 @@ git clone "អាសយដ្ធាន(url)ដែលបានចម្លង"
 ```
 git clone https://github.com/Vireak-Sok/Github-beginner-tutorial.git
 ```
-ដែល `this-is-you` គឺជាឈ្មោះប្រើ GitHub របស់អ្នក. នៅទីនេះអ្នកកំពុងចម្លងមាតិកានៃឃ្លាំង Github-beginner-tutorial នៅក្នុង GitHub ទៅកុំព្យូទ័ររបស់អ្នក.
+ដែល `Vireak-Sok` គឺជាឈ្មោះប្រើ GitHub របស់អ្នក. នៅទីនេះអ្នកកំពុងចម្លងមាតិកានៃឃ្លាំង Github-beginner-tutorial នៅក្នុង GitHub ទៅកុំព្យូទ័ររបស់អ្នក.
 
 ## បង្កើតសាខា
 
 ផ្លាស់ប្តូរទៅថតឃ្លាំងផ្ទុកនៅលើកុំព្យូទ័ររបស់អ្នក (ប្រសិនបើអ្នកមិនទាន់មាន):
 
 ```
-cd first-contributions
+cd Github-beginner-tutorial
 ```
 ឥឡូវបង្កើតសាខាដោយប្រើពាក្យបញ្ជា `git checkout ':
 ```
@@ -67,7 +67,7 @@ git checkout -b add-alonzo-church
 បន្ថែមការផ្លាស់ប្ដូរទាំងនោះទៅកាន់សាខាដែលអ្នកទើបតែបានបង្កើតដោយប្រើពាក្យបញ្ជា `git add`:
 
 ```
-git add Contributors.md
+git add contributors-list.md
 ```
 
 ឥឡូវនេះធ្វើការផ្លាស់ប្ដូរទាំងនោះដោយប្រើពាក្យបញ្ជា 'git commit':
