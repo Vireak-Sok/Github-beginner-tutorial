@@ -3,28 +3,26 @@
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
 
-If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
+Download GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
-If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
+Download GitHub Desktop old version 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="../Assets/fork.png" alt="fork this repository"/>
 
 ## Fork this repository
 
-Fork this repo by clicking on the fork button on the top right of this page.
+Fork this repository by clicking on the fork button on the top right of this page.
 This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone this repo to your machine.
+Now clone this repository to your machine.
 
-IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it. 
+IMPORTANT: DO NOT CLONE THE ORIGINAL REPOSITORY. Go to your fork and clone it. 
 
-To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
+To clone the repository, click on "Clone or Download" and then click on "Open in Desktop".
 
 <img style="left;" src="../Assets/clonetodesktop.png" alt="clone this repository"/>
 
@@ -100,5 +98,3 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
