@@ -6,7 +6,7 @@
 
 #### *ប្រសិនបើអ្នកមិនប្រសព្វក្នុងការប្រើបន្ទាត់ពាក្យបញ្ជា(command line), [នេះគឺការបង្រៀនដោយប្រើប្រាស់ឧបករណ៍ GUI.]( #tutorials-using-other-tools )*
 
-<img align="right" width="300" src="./Assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="../Assets/fork.png" alt="fork this repository" />
 
 ប្រសិនបើអ្នកមិនមាន git នៅលើម៉ាស៊ីនរបស់អ្នក, [ដំឡើងវា]( https://help.github.com/articles/set-up-git/).
 
@@ -17,7 +17,7 @@
 
 ## ក្លូនឬថតចម្លងឃ្លាំងផ្ទុក
 
-<img align="right" width="300" src="./Assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="../Assets/clone.png" alt="clone this repository" />
 
 ឥឡូវនេះក្លូនឃ្លាំងផ្តុកដែលបានទាញទៅម៉ាស៊ីនរបស់អ្នក។ ចូលទៅកាន់គណនី GitHub របស់អ្នកបើកឃ្លាំងផ្ទុកដែលបានទាញរួចចុចលើប៊ូតុង clone ហើយបន្ទាប់មកចុចលើ ប៊ូតុង* copy to clipboard *។
 
@@ -28,13 +28,13 @@ git clone "អាសយដ្ធាន(url)ដែលបានចម្លង"
 ```
 ដែល "អាសយដ្ធាន(url)ដែលបានចម្លង" (គ្មានសញ្ញា " ") គឺជាអាសយដ្ធាន(url)នៃឃ្លាំងផ្ទុក (កម្រោងដែលអ្នកបានទាញ).សូមមើលជំហានមុន ៗ ដើម្បីទទួលបានអាសយដ្ធាន(url).
 
-<img align="right" width="300" src="./Assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="../Assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 ឧទាហរណ៏:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/Vireak-Sok/Github-beginner-tutorial.git
 ```
-ដែល `this-is-you` គឺជាឈ្មោះប្រើ GitHub របស់អ្នក. នៅទីនេះអ្នកកំពុងចម្លងមាតិកានៃឃ្លាំង first-contributions នៅក្នុង GitHub ទៅកុំព្យូទ័ររបស់អ្នក.
+ដែល `this-is-you` គឺជាឈ្មោះប្រើ GitHub របស់អ្នក. នៅទីនេះអ្នកកំពុងចម្លងមាតិកានៃឃ្លាំង Github-beginner-tutorial នៅក្នុង GitHub ទៅកុំព្យូទ័ររបស់អ្នក.
 
 ## បង្កើតសាខា
 
@@ -58,7 +58,7 @@ git checkout -b add-alonzo-church
 
 ឥឡូវនេះបើកឯកសារ `contributors-list.md` នៅក្នុងកម្មវិធីកែឯកសារណាមួយ(ដូចជា Notepad)បន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើមឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅគ្រប់ទីកន្លែង។ ឥឡូវរក្សាទុកឯកសារ។
 
-<img align="right" width="450" src="./Assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="../Assets/git-status.png" alt="git status" />
 
 
 ប្រសិនបើអ្នកទៅកាន់ថតគម្រោងនិងបញ្ចូលពាក្យបញ្ជា `git status' អ្នកនឹងឃើញមានការផ្លាស់ប្តូរ។
@@ -88,11 +88,11 @@ git push origin <add-your-branch-name>
 
 ប្រសិនបើអ្នកទៅកាន់ឃ្លាំងផ្ទុករបស់អ្នកនៅលើ GitHub អ្នកនឹងឃើញប៊ូតុង `Compare & pull request '។ ចុចលើប៊ូតុងនោះ។
 
-<img style="float: right;" src="./Assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="../Assets/compare-and-pull.png" alt="create a pull request" />
 
 ឥឡូវនេះដាក់ស្នើសំណើទាញ។
 
-<img style="float: right;" src="./Assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="../Assets/submit-pull-request.png" alt="submit pull request" />
 
 មិនយូរប៉ុន្មានខ្ញុំនឹងបញ្ចូលការផ្លាស់ប្ដូរទាំងអស់របស់អ្នកទៅក្នុងសាខាមេ(master branch)នៃគម្រោងនេះ។ អ្នកនឹងទទួលបានអ៊ីម៉ែលការជូនដំណឹងនៅពេលដែលការផ្លាស់ប្តូរត្រូវបានបញ្ចូលចូលគ្នា។
 
