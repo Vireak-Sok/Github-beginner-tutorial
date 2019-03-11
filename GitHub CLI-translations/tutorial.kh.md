@@ -56,7 +56,7 @@ git checkout -b add-alonzo-church
 
 ## ធ្វើការផ្លាស់ប្តូរចាំបាច់និងធ្វើការផ្លាស់ប្តូរទាំងនោះ
 
-ឥឡូវនេះបើកឯកសារ `Contributors.md` នៅក្នុងកម្មវិធីកែឯកសារណាមួយ(ដូចជា Notepad)បន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើមឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅគ្រប់ទីកន្លែង។ ឥឡូវរក្សាទុកឯកសារ។
+ឥឡូវនេះបើកឯកសារ `contributors-list.md` នៅក្នុងកម្មវិធីកែឯកសារណាមួយ(ដូចជា Notepad)បន្ថែមឈ្មោះរបស់អ្នកទៅវា។ កុំបន្ថែមវានៅដើមឬចុងបញ្ចប់នៃឯកសារ។ ដាក់វានៅគ្រប់ទីកន្លែង។ ឥឡូវរក្សាទុកឯកសារ។
 
 <img align="right" width="450" src="./Assets/git-status.png" alt="git status" />
 
@@ -101,7 +101,3 @@ git push origin <add-your-branch-name>
 អបអរសាទរ! អ្នកទើបតែបានបញ្ចប់គំរូ _fork -> clone -> edit -> PR_ ដំណើរការនៃការងារដែលអ្នកនឹងជួបប្រទះញឹកញាប់ក្នុងនាមជាអ្នករួមចំណែក!
 
 សូមអបអរសាទរការរួមចំណែករបស់អ្នកនិងចែករំលែកវាជាមួយមិត្តភក្តិនិងអ្នកគាំទ្ររបស់អ្នកដោយចូលទៅ [អាសយដ្ធាន](https://firstcontributions.github.io/#social-share).
-
-អ្នកអាចចូលរួមជាមួយក្រុមរការងាររបស់យើងក្នុងករណីដែលអ្នកត្រូវការជំនួយឬមានសំនួរ។ [ចូលរួមក្រុមការងរា](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
-
-ឥឡូវនេះសូមឱ្យអ្នកចាប់ផ្តើមដោយរួមចំណែកដល់គម្រោងដទៃទៀត។ យើងបានចងក្រងបញ្ជីគម្រោងដែលមានបញ្ហាងាយៗដែលអ្នកអាចចាប់ផ្តើមបាន។ ចូលមើល[បញ្ជីរគម្រោង](https://firstcontributions.github.io/#project-list).
