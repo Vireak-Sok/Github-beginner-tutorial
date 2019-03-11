@@ -8,7 +8,7 @@ This repository is for beginner, the task to do is fork, clone this repository,c
 
 ##### Where to make change
 
-- In contributors-list.md, adding some information of yourself as shown in example
+- In *contributors-list.md*, adding some information of yourself as shown in example
 - Add more basic C program files
 - Add more translations in other languages
 #### You can do this in any type GUI or CLI check the tutorial above
